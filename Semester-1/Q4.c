@@ -1,3 +1,5 @@
+//Write a program to reverse a given integer.
+
 #include <stdio.h>
 
 int main(void)
